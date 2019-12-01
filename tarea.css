@@ -1,0 +1,72 @@
+/* -TEXT- */
+
+.headline {
+    background-color: silver;
+    font-size: 55pt;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(20, 70, 119);
+    margin: 0;
+    padding: 10px;
+    border-bottom: 3pt solid white;
+    border-top: 3pt solid white;
+    box-sizing: border-box;
+}
+
+
+.hobbies {
+    background-color: rgb(20, 70, 119);
+    font-size: 35pt;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:silver;
+    margin: 0;
+    padding: 5px;
+    border-bottom: 3pt solid white;
+    border-top: 3pt solid white;    
+}
+
+.textofthehobbies {
+    background-color: silver;
+    font-size: 20pt;
+    font-weight:normal;
+    color: rgb(20, 70, 119);
+    text-align: left;
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.hobbies2 {
+    background-color: rgb(20, 70, 119);
+    font-size: 35pt;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:silver;
+    margin: 0;
+    padding: 5px;
+    border-bottom: 2pt solid white;
+    border-top: 6pt solid white;
+    box-sizing: border-box;
+
+}
+
+/* -TEXT- */
+
+/* -IMAGES- */
+
+.messi {
+    width: 40%;
+    height: 40%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border:black solid 1px;
+    vertical-align: middle;
+}
