@@ -16,7 +16,7 @@
 }
 
 
-.hobbies {
+/* .hobbies {
     background-color: rgb(20, 70, 119);
     font-size: 35pt;
     font-weight: lighter;
@@ -28,7 +28,7 @@
     padding: 5px;
     border-bottom: 3pt solid white;
     border-top: 3pt solid white;    
-}
+} */
 
 .textofthehobbies {
     background-color: silver;
@@ -69,4 +69,22 @@
     margin-right: auto;
     border:black solid 1px;
     vertical-align: middle;
+}
+
+
+.hobbies-container {
+    display: flex;
+    justify-content: center;
+}
+
+.hobbies {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+
+}
+
+.hobbies-detail {
+    width: 45%;
+    
 }
